@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/enterprise-e-commerce-competitive-intelligence-s-17/sitemap.xml
